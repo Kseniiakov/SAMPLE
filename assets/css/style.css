@@ -57,10 +57,6 @@ body {
   margin-right: -2px;
 }
 
-/* .nav-item:hover > {
-  display: block;
-} */
-
 .sub-nav-item {
   display: block;
 
@@ -85,9 +81,7 @@ body {
   width: 100%;
 }
 
-/* .sub-nav-item:hover > .second-nav-list {
-  display: block;
-} */
+/* js classes */
 
 .darkGreen {
   background-color: #3c805b;
